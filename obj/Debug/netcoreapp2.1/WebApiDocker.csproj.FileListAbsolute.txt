@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\WebApiDocker\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\HP\source\repos\WebApiDocker\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\HP\source\repos\WebApiDocker\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\HP\source\repos\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.AssemblyInfo.cs
